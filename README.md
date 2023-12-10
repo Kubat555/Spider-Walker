@@ -21,5 +21,5 @@ Before getting started with the project, make sure you have the following compon
    git clone https://github.com/Kubat555/Spider-Walker.git
    
 2. Open the project in Unity.
-3. Find the "SpiderWalker" scene and open it
+3. Find the "SampleScene" scene and open it
 4. Press "Play" to run the scene and observe the procedural spider walk animation.
