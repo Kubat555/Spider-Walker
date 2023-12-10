@@ -18,7 +18,7 @@ Before getting started with the project, make sure you have the following compon
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kubat555/Spider_Procedural_Animation.git
+   git clone https://github.com/Kubat555/Spider-Walker.git
    
 2. Open the project in Unity.
 3. Find the "SpiderWalker" scene and open it
